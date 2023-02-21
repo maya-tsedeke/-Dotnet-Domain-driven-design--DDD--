@@ -1,0 +1,5 @@
+C:\Users\tshabe\Documents\GitHub\-Dotnet-Domain-driven-design--DDD--\userContext\infrastructure\obj\Debug\net7.0\infrastructure.csproj.AssemblyReference.cache
+C:\Users\tshabe\Documents\GitHub\-Dotnet-Domain-driven-design--DDD--\userContext\infrastructure\obj\Debug\net7.0\infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tshabe\Documents\GitHub\-Dotnet-Domain-driven-design--DDD--\userContext\infrastructure\obj\Debug\net7.0\infrastructure.AssemblyInfoInputs.cache
+C:\Users\tshabe\Documents\GitHub\-Dotnet-Domain-driven-design--DDD--\userContext\infrastructure\obj\Debug\net7.0\infrastructure.AssemblyInfo.cs
+C:\Users\tshabe\Documents\GitHub\-Dotnet-Domain-driven-design--DDD--\userContext\infrastructure\obj\Debug\net7.0\infrastructure.csproj.CoreCompileInputs.cache
