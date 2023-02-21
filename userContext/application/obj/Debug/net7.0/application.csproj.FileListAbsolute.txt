@@ -3,3 +3,13 @@ C:\Users\tshabe\Documents\GitHub\-Dotnet-Domain-driven-design--DDD--\userContext
 C:\Users\tshabe\Documents\GitHub\-Dotnet-Domain-driven-design--DDD--\userContext\application\obj\Debug\net7.0\application.AssemblyInfoInputs.cache
 C:\Users\tshabe\Documents\GitHub\-Dotnet-Domain-driven-design--DDD--\userContext\application\obj\Debug\net7.0\application.AssemblyInfo.cs
 C:\Users\tshabe\Documents\GitHub\-Dotnet-Domain-driven-design--DDD--\userContext\application\obj\Debug\net7.0\application.csproj.CoreCompileInputs.cache
+C:\Users\tshabe\Documents\GitHub\-Dotnet-Domain-driven-design--DDD--\userContext\application\bin\Debug\net7.0\application.deps.json
+C:\Users\tshabe\Documents\GitHub\-Dotnet-Domain-driven-design--DDD--\userContext\application\bin\Debug\net7.0\application.dll
+C:\Users\tshabe\Documents\GitHub\-Dotnet-Domain-driven-design--DDD--\userContext\application\bin\Debug\net7.0\application.pdb
+C:\Users\tshabe\Documents\GitHub\-Dotnet-Domain-driven-design--DDD--\userContext\application\bin\Debug\net7.0\domain.dll
+C:\Users\tshabe\Documents\GitHub\-Dotnet-Domain-driven-design--DDD--\userContext\application\bin\Debug\net7.0\domain.pdb
+C:\Users\tshabe\Documents\GitHub\-Dotnet-Domain-driven-design--DDD--\userContext\application\obj\Debug\net7.0\application.csproj.CopyComplete
+C:\Users\tshabe\Documents\GitHub\-Dotnet-Domain-driven-design--DDD--\userContext\application\obj\Debug\net7.0\application.dll
+C:\Users\tshabe\Documents\GitHub\-Dotnet-Domain-driven-design--DDD--\userContext\application\obj\Debug\net7.0\refint\application.dll
+C:\Users\tshabe\Documents\GitHub\-Dotnet-Domain-driven-design--DDD--\userContext\application\obj\Debug\net7.0\application.pdb
+C:\Users\tshabe\Documents\GitHub\-Dotnet-Domain-driven-design--DDD--\userContext\application\obj\Debug\net7.0\ref\application.dll

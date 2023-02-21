@@ -3,3 +3,13 @@ C:\Users\tshabe\Documents\GitHub\-Dotnet-Domain-driven-design--DDD--\userContext
 C:\Users\tshabe\Documents\GitHub\-Dotnet-Domain-driven-design--DDD--\userContext\infrastructure\obj\Debug\net7.0\infrastructure.AssemblyInfoInputs.cache
 C:\Users\tshabe\Documents\GitHub\-Dotnet-Domain-driven-design--DDD--\userContext\infrastructure\obj\Debug\net7.0\infrastructure.AssemblyInfo.cs
 C:\Users\tshabe\Documents\GitHub\-Dotnet-Domain-driven-design--DDD--\userContext\infrastructure\obj\Debug\net7.0\infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\tshabe\Documents\GitHub\-Dotnet-Domain-driven-design--DDD--\userContext\infrastructure\bin\Debug\net7.0\infrastructure.deps.json
+C:\Users\tshabe\Documents\GitHub\-Dotnet-Domain-driven-design--DDD--\userContext\infrastructure\bin\Debug\net7.0\infrastructure.dll
+C:\Users\tshabe\Documents\GitHub\-Dotnet-Domain-driven-design--DDD--\userContext\infrastructure\bin\Debug\net7.0\infrastructure.pdb
+C:\Users\tshabe\Documents\GitHub\-Dotnet-Domain-driven-design--DDD--\userContext\infrastructure\bin\Debug\net7.0\domain.dll
+C:\Users\tshabe\Documents\GitHub\-Dotnet-Domain-driven-design--DDD--\userContext\infrastructure\bin\Debug\net7.0\domain.pdb
+C:\Users\tshabe\Documents\GitHub\-Dotnet-Domain-driven-design--DDD--\userContext\infrastructure\obj\Debug\net7.0\infrastructure.csproj.CopyComplete
+C:\Users\tshabe\Documents\GitHub\-Dotnet-Domain-driven-design--DDD--\userContext\infrastructure\obj\Debug\net7.0\infrastructure.dll
+C:\Users\tshabe\Documents\GitHub\-Dotnet-Domain-driven-design--DDD--\userContext\infrastructure\obj\Debug\net7.0\refint\infrastructure.dll
+C:\Users\tshabe\Documents\GitHub\-Dotnet-Domain-driven-design--DDD--\userContext\infrastructure\obj\Debug\net7.0\infrastructure.pdb
+C:\Users\tshabe\Documents\GitHub\-Dotnet-Domain-driven-design--DDD--\userContext\infrastructure\obj\Debug\net7.0\ref\infrastructure.dll
